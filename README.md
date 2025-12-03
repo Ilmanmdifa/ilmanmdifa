@@ -1,4 +1,4 @@
-## 👋 Hi, i'm Ilman:
+## 👋 Hi, i'm Ilman
 🔭 Fullstack Developer Enthusiast, Loves learning new things and workouts.<br> 
 🎓 Have a degree in Computer Science at Langlangbuana University in Bandung, West Java, Indonesia<br>
 🌱 I’m currently learning NextJS<br>
